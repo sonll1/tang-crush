@@ -1,6 +1,9 @@
 const CONFIG = {
     introTitle: 'Hey Girl!',
-    introDesc: `Nhân dịp sinh nhật lần thứ của anh, em chúc anh luôn tươi khỏe, trẻ đẹp. Cầu mong những gì may mắn nhất, tốt đẹp nhất và hạnh phúc nhất sẽ đến với anh trong tuổi mới`,
+    introDesc: `Nhân dịp sinh nhật lần thứ 20
+    của em,anh chúc em luôn tươi khỏe,trẻ đẹp
+    Cầu mong những gì may mắn nhất
+    tốt đẹp nhất và hạnh phúc nhất sẽ đến với em`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -10,7 +13,6 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nacy 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messDesc: 'Chúc Mừng Sinh Nhật công chúa.',
+    btnAccept: 'Bye, em ngủ ngon!!!',
+    messLink: 'http://fb.com' https://www.facebook.com/messages/t/100013110498685

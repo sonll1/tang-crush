@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Hey Girl!',
-    introDesc: `Nhân dịp sinh nhật lần thứ 20
-    của em,anh chúc em luôn tươi khỏe,trẻ đẹp
+    introDesc: `Nhân dịp sinh nhật lần thứ 20 của em
+    anh chúc em luôn tươi khỏe,trẻ đẹp
     Cầu mong những gì may mắn nhất
     tốt đẹp nhất và hạnh phúc nhất sẽ đến với em`,
     btnIntro: 'hihi',

@@ -1,9 +1,6 @@
 const CONFIG = {
     introTitle: 'Hey Girl!',
-    introDesc: `Khi em bước ra đường
-    bước ra đường
-    đây không phải nước hoa thường 
-    Đằng sau chữ yêu đây là thương`,
+    introDesc: `Nhân dịp sinh nhật lần thứ của anh, em chúc anh luôn tươi khỏe, trẻ đẹp. Cầu mong những gì may mắn nhất, tốt đẹp nhất và hạnh phúc nhất sẽ đến với anh trong tuổi mới`,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
